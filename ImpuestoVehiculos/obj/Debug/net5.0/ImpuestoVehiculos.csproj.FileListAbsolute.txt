@@ -1,0 +1,15 @@
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/bin/Debug/net5.0/ImpuestoVehiculos.deps.json
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/bin/Debug/net5.0/ImpuestoVehiculos.runtimeconfig.json
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/bin/Debug/net5.0/ImpuestoVehiculos.runtimeconfig.dev.json
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/bin/Debug/net5.0/ImpuestoVehiculos.dll
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/bin/Debug/net5.0/ref/ImpuestoVehiculos.dll
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/bin/Debug/net5.0/ImpuestoVehiculos.pdb
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.csproj.AssemblyReference.cache
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.AssemblyInfoInputs.cache
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.AssemblyInfo.cs
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.csproj.CoreCompileInputs.cache
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.dll
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ref/ImpuestoVehiculos.dll
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.pdb
+/Users/luiscelano/Projects/ImpuestoVehiculos/ImpuestoVehiculos/obj/Debug/net5.0/ImpuestoVehiculos.genruntimeconfig.cache

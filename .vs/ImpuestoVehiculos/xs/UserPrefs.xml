@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3F4097A3-79F5-48C4-B3C5-5CADB3219EA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImpuestoVehiculos/Program.cs">
+    <Files>
+      <File FileName="ImpuestoVehiculos/Program.cs" Line="81" Column="34" />
+      <File FileName="ImpuestoVehiculos/Modelos/Vehiculo.cs" Line="130" Column="44" />
+      <File FileName="ImpuestoVehiculos/Acciones/AccionesVehiculo.cs" Line="75" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImpuestoVehiculos" expanded="True">
+            <Node name="ImpuestoVehiculos" expanded="True">
+              <Node name="Acciones" expanded="True" />
+              <Node name="Modelos" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImpuestoVehiculos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
